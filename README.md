@@ -13,10 +13,11 @@
 
 # 技术栈
 * spring boot 2.1.3
-* mybatis-plus
+* mybatis-plus 3.3.2
 * swagger2
 * lombok
 * hutool
+* Druid
 
 # 开发规范
 ## 编码规范
